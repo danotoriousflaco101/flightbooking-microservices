@@ -1,0 +1,28 @@
+
+target/
+*.jar
+*.war
+*.ear
+*.class
+
+
+*.log
+
+hs_err_pid*
+
+
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings
+.factorypath
